@@ -1,4 +1,8 @@
 <Solution>
+  <Folder Name="/Assignment/" />
+  <Folder Name="/Assignment/20_2026_1Assignments/">
+    <Project Path="A06_IntMemoeryVariable/A06_IntMemoeryVariable.csproj" />
+  </Folder>
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
   <Project Path="CynclyAswin/CynclyAswin.csproj" />
 </Solution>
