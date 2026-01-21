@@ -1,4 +1,7 @@
 <Solution>
+  <Folder Name="/2026_01_21/">
+    <Project Path="A025/A025_GenericsListOfInteger.csproj" Id="d517c971-3569-4f43-a0b4-51c6655a46b4" />
+  </Folder>
   <Folder Name="/Assignment/">
     <Project Path="A11_iFeLSE/A11_iFeLSE.csproj" />
   </Folder>
