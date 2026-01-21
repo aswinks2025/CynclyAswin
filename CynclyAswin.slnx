@@ -1,8 +1,12 @@
 <Solution>
-  <Folder Name="/Assignment/" />
+  <Folder Name="/Assignment/">
+    <Project Path="A11_iFeLSE/A11_iFeLSE.csproj" />
+  </Folder>
   <Folder Name="/Assignment/20_2026_1Assignments/">
     <Project Path="A06_IntMemoeryVariable/A06_IntMemoeryVariable.csproj" />
+    <Project Path="A08_Doubleca;culator/A08_Doubleca;culator.csproj" />
   </Folder>
+  <Project Path="A21_Generic/A21_Generic.csproj" />
   <Project Path="ConsoleApp1/ConsoleApp1.csproj" />
   <Project Path="CynclyAswin/CynclyAswin.csproj" />
 </Solution>
